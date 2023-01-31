@@ -1,6 +1,6 @@
 Api's:
-TEQUILA
-TWILIO
+TEQUILA,
+TWILIO,
 SHEETY
 
 By using the Tequila API the program searches for a direct flight that leaves anytime between tomorrow and in 6 months' time and also looks for round trips that return between 7 and 28 days in length.
